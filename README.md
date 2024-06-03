@@ -1,3 +1,3 @@
 # HTTP Proxy Checker
 ------------------------
-# Made by r0ck450
+# Check if HTTP Proxies can handle HTTPS Connecton
